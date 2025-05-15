@@ -1,5 +1,19 @@
 ﻿# 👋 Olá, eu sou o Leonardo Vinícius/ Hi, I’m Leonardo Vinícius 
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=DEVFLEO&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=DEVFLEO&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DEVFLEO&show_icons=true" />
+</picture>
+
+
+
 ## 👀 Tenho interesse em... / I’m interested in...
 - **C++**: Atualmente explorando conceitos avançados e estruturas de dados. / Currently exploring advanced concepts and data structures.
 - **C**: Mergulhando em programação de baixo nível. / Diving deep into system-level programming.
