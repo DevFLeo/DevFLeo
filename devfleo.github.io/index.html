@@ -1,1 +1,71 @@
 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Portfólio de Leonardo Vinícius</title>
+  <style>
+    :root {
+      --bg: #121212;
+      --text: #f1f1f1;
+    }
+
+    body.light {
+      --bg: #f1f1f1;
+      --text: #121212;
+    }
+
+    body {
+      margin: 0;
+      background-color: var(--bg);
+      color: var(--text);
+      font-family: 'Segoe UI', sans-serif;
+      transition: background 0.3s, color 0.3s;
+    }
+
+    header {
+      padding: 1rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .theme-toggle {
+      background: none;
+      border: 1px solid var(--text);
+      padding: 0.5rem 1rem;
+      cursor: pointer;
+      color: var(--text);
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Leonardo Vinícius</h1>
+    <button class="theme-toggle" onclick="toggleTheme()">🌗 Mudar tema</button>
+  </header>
+
+  <main style="padding: 2rem;">
+    <p>👋 Olá! Seja bem-vindo ao meu portfólio.</p>
+    <p>💼 Engenheiro de Software em formação. Explorando C++, JS e sistemas.</p>
+    <p>🌐 <a href="https://www.linkedin.com/in/leonardo-vinicius-de-oliveira-frez" target="_blank">LinkedIn</a></p>
+  </main>
+
+  <script>
+    const body = document.body;
+    const currentTheme = localStorage.getItem("theme");
+
+    if (currentTheme === "light") {
+      body.classList.add("light");
+    }
+
+    function toggleTheme() {
+      body.classList.toggle("light");
+      const theme = body.classList.contains("light") ? "light" : "dark";
+      localStorage.setItem("theme", theme);
+    }
+  </script>
+</body>
+</html>
