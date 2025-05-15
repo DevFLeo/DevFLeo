@@ -3,21 +3,47 @@
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfleo&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devfleo&layout=compact&theme=github_dark)
 
+## 🌐 Me encontra por aqui:
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; justify-content: center;">
+
+<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/leonardo-vinicius-de-oliveira-frez/" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%91%80%20Olha%20esse%20bot%C3%A3o...-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Leonardo"/>
+  <img src="https://img.shields.io/badge/%F0%9F%91%80%20Olha%20esse%20bot%C3%A3o...-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://discordapp.com/users/1234567890" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%A4%94%20Quer%20trocar%20uma%20ideia%3F-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord de Leonardo"/>
+<!-- GitHub -->
+<a href="https://github.com/devfleo" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%92%BB%20Meus%20c%C3%B3digos%20aqui-GitHub-24292E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="[https://www.workana.com/freelancer/leonardo-vinicius](https://www.workana.com/freelancer/69edc4cdafbb1764ceb1d8cc7c1fa325)" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%93%9D%20Precisa%20de%20um%20freela%3F-Workana-0C1A36?style=for-the-badge&logo=freelancer&logoColor=white" alt="Workana de Leonardo"/>
+<!-- Workana -->
+<a href="https://www.workana.com/freelancer/69edc4cdafbb1764ceb1d8cc7c1fa325" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%93%9D%20Precisa%20de%20um%20freela%3F-Workana-0C1A36?style=for-the-badge&logo=freelancer&logoColor=white"/>
 </a>
 
-<a href="https://www.dio.me/users/leonardo.vinicius" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%93%20Treinei%20aqui%20hein!-DIO.me-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDQ4IDQ4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xNi41IDEzLjNsLTYuNiAxNy44SDYuNkwxLjQgMTMuM2g1LjRsMy4yIDkuMyAzLjMtOS4zeiIvPjxwYXRoIGQ9Ik0yNC40IDEzLjNsNS43IDE3LjggNS43LTE3LjhoNS41bC02LjYgMTcuOGgtNS4ybC01LjYtMTcuOGg1LjV6Ii8+PHBhdGggZD0iTTM3LjIgMzEuMWgxLjF2MS4zYzAgMi4yLTEuNCAzLjYtMy41IDMuNmgtLjFjLTIuMiAwLTMuNS0xLjQtMy41LTMuNnYtMi41YzAtMi4yIDEuNC0zLjYgMy41LTMuNmguMWMxLjUgMCAyLjYgLjcgMy4yIDEuOGwtMi4yIDEuMmMtLjItLjQtLjctLjctMS4xLS43cy0xLjIuMy0xLjIgMS4zdjIuN2MwIDEuMS40IDEuNSAxLjIgMS41czEtLjMuOS0uOHYtLjFoLTEuMnYtMS41em0zLjQtNC43YzAtMS41LS45LTIuMi0yLjEtMi4yaC0uM2MtMS4xIDAtMiAuNy0yIDIuMnYxLjNoMy45di0xLjN6Ii8+PC9zdmc+" alt="DIO.me Leonardo"/>
+<!-- DIO.me -->
+<a href="https://www.dio.me/users/leonardoviniciusfrez" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%93%20Treinei%20aqui%20hein!-DIO.me-black?style=for-the-badge&logoColor=white"/>
 </a>
+
+<!-- Discord (placeholder, coloque seu link real!) -->
+<a href="https://discordapp.com/users/seuIDaqui" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%94%20Vamos%20conversar%20no%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<!-- Facebook -->
+<a href="https://www.facebook.com/leonardoviniciusde.oliveirafrez/" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%91%AC%20Te%20achei%20no%20Face%3F-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<!-- Email -->
+<a href="mailto:Leonardoviniciusfrez@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Me%20manda%20um%20email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+
 
 
 <div align=center>
@@ -30,7 +56,7 @@
 - **JavaScript (JS)**: Aprendendo frameworks front-end e recursos modernos do JavaScript. / Learning front-end frameworks and modern JavaScript features.
 
 ## 🌱 Atualmente estou aprendendo... / I’m currently learning...
-- Tudo! Como estudante de engenharia de software, sou apaixonado por aprender novas tecnologias, frameworks e melhorar minhas habilidades. / Everything! As a software engineering student, I’m passionate about learning new technologies, frameworks, and improving my skills.
+- Como estudante de engenharia da computação, sou apaixonado por aprender novas tecnologias, frameworks e melhorar minhas habilidades. / As a software engineering student, I’m passionate about learning new technologies, frameworks, and improving my skills.
 
 ## 💞️ Estou procurando colaborar em... / I’m looking to collaborate on...
 - Projetos open source, especialmente relacionados a C++, C e JS. / Open source projects, especially related to C++, C, and JS.
@@ -44,4 +70,4 @@
 - **ELE/DELE** (Português) / **He/Him** (English)
 
 ## ⚡ Curiosidade / Fun fact...
-- Sou novo no GitHub e ainda estou aprendendo os processos. Talvez eu não saiba o que estou fazendo, mas estou animado para explorar e aprender! / I’m new to GitHub and still learning the ropes. I might not know what I’m doing, but I’m excited to explore and learn.
+- Estou explorando o GitHub como um novo universo. Posso estar perdido no mapa, mas sei que o melhor jeito de aprender é navegando! / I’m exploring GitHub as a new world. I might be a bit lost, but I know that the best way to learn is to explore!
