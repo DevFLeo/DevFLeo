@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DEVFLEO&show_icons=true" />
 </picture>
 
-![snake gif](https://github.com/DevFLeo/DevFLeo/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/DevFLeo/gitrepo/output/snake.svg" alt="Snake animation" />
 
 ## 👀 Tenho interesse em... / I’m interested in...
 - **C++**: Atualmente explorando conceitos avançados e estruturas de dados. / Currently exploring advanced concepts and data structures.
