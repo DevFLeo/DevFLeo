@@ -13,29 +13,29 @@
 
 <!-- GitHub -->
 <a href="https://github.com/devfleo" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BB%20Meus%20c%C3%B3digos%20aqui-GitHub-24292E?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Meus%20c%C3%B3digos%20aqui-GitHub-24292E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <!-- Workana -->
 <a href="https://www.workana.com/freelancer/69edc4cdafbb1764ceb1d8cc7c1fa325" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%93%9D%20Precisa%20de%20um%20freela%3F-Workana-0C1A36?style=for-the-badge&logo=freelancer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Precisa%20de%20um%20freela%20%3F-Workana-0C1A36?style=for-the-badge&logo=freelancer&logoColor=white"/>
+</a>
+
+<!-- Email -->
+<a href="mailto:Leonardoviniciusfrez@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Meu%20email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <!-- DIO.me -->
 <a href="https://www.dio.me/users/leonardoviniciusfrez" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%93%20Treinei%20aqui%20hein!-DIO.me-black?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DIO.me-black?style=for-the-badge&logoColor=white"/>
 </a>
 
 <!-- Discord (placeholder, coloque seu link real!) -->
 
 <!-- Facebook -->
 <a href="https://www.facebook.com/leonardoviniciusde.oliveirafrez/" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%91%AC%20Te%20achei%20no%20Face%3F-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<!-- Email -->
-<a href="mailto:Leonardoviniciusfrez@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Me%20manda%20um%20email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 </div>
