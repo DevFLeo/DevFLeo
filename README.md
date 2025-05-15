@@ -12,6 +12,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DEVFLEO&show_icons=true" />
 </picture>
 
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+
+
 <div align=center>
   
 <img src="https://raw.githubusercontent.com/devfleo/devfleo/output/snake.svg" alt="Snake animation" />
