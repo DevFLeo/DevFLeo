@@ -14,7 +14,7 @@
 
 <div align=center>
   
-<img src="https://raw.githubusercontent.com/devfleo/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/devfleo/devfleo/output/snake.svg" alt="Snake animation" />
 
 </div>
 
