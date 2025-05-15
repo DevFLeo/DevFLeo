@@ -27,9 +27,6 @@
 </a>
 
 <!-- Discord (placeholder, coloque seu link real!) -->
-<a href="https://discordapp.com/users/seuIDaqui" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%A4%94%20Vamos%20conversar%20no%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
 
 <!-- Facebook -->
 <a href="https://www.facebook.com/leonardoviniciusde.oliveirafrez/" target="_blank">
