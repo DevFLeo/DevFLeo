@@ -8,7 +8,7 @@
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/leonardo-vinicius-de-oliveira-frez/" target="_blank">
-  <img src="https://img.shields.io/badgeOlhe%20esse%20bot%C3%A3o...-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Olhe%20esse%20bot%C3%A3o...-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <!-- Workana -->
