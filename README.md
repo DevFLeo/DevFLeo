@@ -70,8 +70,7 @@
 
 ### ✨ Featured Projects / Projetos em Destaque
 
-- **[Project Name 1](link-to-repo):** A brief, impactful description of the project's purpose and your role. (Technologies: C++, Qt)
-- **[Project Name 2](link-to-repo):** A brief, impactful description of the project's purpose and your role. (Technologies: Python, REST API)
+- **[WEB_To-Do_API](https://github.com/DevFLeo/Web_To-Do_API):** A brief, impactful description of the project's purpose and your role. (Technologies: C#, REST API, .NET 8, JS)
 
 ---
 
