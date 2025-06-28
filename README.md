@@ -68,13 +68,13 @@
 
 ---
 
-### ✨ Featured Projects / Projetos em Destaque
+### Featured Projects / Projetos em Destaque
 
 - **[WEB_To-Do_API](https://github.com/DevFLeo/Web_To-Do_API):** A brief, impactful description of the project's purpose and your role. (Technologies: C#, REST API, .NET 8, JS)
 
 ---
 
-### 👤 About Me
+### About Me
 
 I'm a Computer Engineering student passionate about building robust and efficient solutions. I thrive on challenges that require a deep understanding of systems, from low-level mechanics to high-level architecture. My goal is to write code that is not only functional but also clean, scalable, and elegant.
 
@@ -85,7 +85,7 @@ I'm a Computer Engineering student passionate about building robust and efficien
 
 </details>
 
-### 🎯 Currently Focused On
+### Currently Focused On
 
 I am currently deepening my knowledge in software architecture and distributed systems while actively seeking opportunities to contribute to meaningful open-source projects. My objective is to apply academic concepts to solve real-world problems and continuously learn from the community.
 
