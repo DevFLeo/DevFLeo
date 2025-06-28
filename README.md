@@ -51,7 +51,7 @@
 <img src="https://raw.githubusercontent.com/devfleo/devfleo/output/snake.svg" alt="Snake animation" />
 </div>
 
-# Leonardo Vinicius
+# Leonardo Vinicius De Oliveira Frez
 
 <p align="center">
   <em>Computer Engineering Student | Software Developer</em>
