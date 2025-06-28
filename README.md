@@ -51,24 +51,47 @@
 <img src="https://raw.githubusercontent.com/devfleo/devfleo/output/snake.svg" alt="Snake animation" />
 </div>
 
-## Tenho interesse em... / I’m interested in...
-- **C++**: Atualmente explorando conceitos avançados e estruturas de dados. / Currently exploring advanced concepts and data structures.
-- **C**: Mergulhando em programação de baixo nível. / Diving deep into system-level programming.
-- **JavaScript (JS)**: Aprendendo frameworks front-end e recursos modernos do JavaScript. / Learning front-end frameworks and modern JavaScript features.
+# Leonardo Vinicius
 
-## Atualmente estou aprendendo... / I’m currently learning...
-- Como estudante de engenharia da computação, sou apaixonado por aprender novas tecnologias, frameworks e melhorar minhas habilidades. / As a software engineering student, I’m passionate about learning new technologies, frameworks, and improving my skills.
+<p align="center">
+  <em>Computer Engineering Student | Software Developer</em>
+</p>
 
-## Estou procurando colaborar em... / I’m looking to collaborate on...
-- Projetos open source, especialmente relacionados a C++, C e JS. / Open source projects, especially related to C++, C, and JS.
-- Estou sempre procurando colaborar em projetos e desafios interessantes, então, fique à vontade para entrar em contato! / I’m always looking to collaborate on interesting projects and challenges, so feel free to reach out!
+---
 
-## Como me encontrar... / How to reach me...
-- Você pode me contatar por e-mail: [leonardoviniciusfrez@gmail.com](mailto:leonardoviniciusfrez@gmail.com) / You can contact me via email: [leonardoviniciusfrez@gmail.com](mailto:leonardoviniciusfrez@gmail.com)
+### Technologies & Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,javascript,html,css,react,nodejs,git,sql" />
+  </a>
+</p>
 
+---
 
-## Pronomes... / Pronouns...
-- **ELE/DELE** (Português) / **He/Him** (English)
+### ✨ Featured Projects / Projetos em Destaque
 
-## Curiosidade / Fun fact...
-- Estou explorando o GitHub como um novo universo. Posso estar perdido no mapa, mas sei que o melhor jeito de aprender é navegando! / I’m exploring GitHub as a new world. I might be a bit lost, but I know that the best way to learn is to explore!
+- **[Project Name 1](link-to-repo):** A brief, impactful description of the project's purpose and your role. (Technologies: C++, Qt)
+- **[Project Name 2](link-to-repo):** A brief, impactful description of the project's purpose and your role. (Technologies: Python, REST API)
+
+---
+
+### 👤 About Me
+
+I'm a Computer Engineering student passionate about building robust and efficient solutions. I thrive on challenges that require a deep understanding of systems, from low-level mechanics to high-level architecture. My goal is to write code that is not only functional but also clean, scalable, and elegant.
+
+<details>
+<summary>Ler em Português</summary>
+
+> Sou um estudante de Engenharia da Computação apaixonado por construir soluções robustas e eficientes. Gosto de desafios que exigem uma compreensão profunda de sistemas, desde a mecânica de baixo nível até a arquitetura de alto nível. Meu objetivo é escrever código que não seja apenas funcional, mas também limpo, escalável e elegante.
+
+</details>
+
+### 🎯 Currently Focused On
+
+I am currently deepening my knowledge in software architecture and distributed systems while actively seeking opportunities to contribute to meaningful open-source projects. My objective is to apply academic concepts to solve real-world problems and continuously learn from the community.
+
+<details>
+<summary>Ler em Português</summary>
+
+> Atualmente, estou aprofundando meus conhecimentos em arquitetura de software e sistemas distribuídos, enquanto busco ativamente oportunidades para contribuir em projetos open-source de impacto. Meu objetivo é aplicar conceitos acadêmicos para resolver problemas do mundo real e aprender continuamente com a comunidade.
+</details>
