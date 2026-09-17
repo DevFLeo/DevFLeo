@@ -1,4 +1,4 @@
-﻿# 👋 Olá, eu sou o Leonardo Vinícius/ Hi, I’m Leonardo Vinícius 
+﻿#  Olá! Eu sou o Leonardo Vinícius/ Hi, I’m Leonardo Vinícius 
 
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfleo&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devfleo&layout=compact&theme=github_dark)
@@ -27,9 +27,6 @@
 </a>
 
 <!-- DIO.me -->
-<a href="https://www.dio.me/users/leonardoviniciusfrez" target="_blank">
-  <img src="https://img.shields.io/badge/DIO.me-black?style=for-the-badge&logoColor=white"/>
-</a>
 
 <!-- Discord (placeholder, coloque seu link real!) -->
 
@@ -43,8 +40,6 @@
 [👉 Acesse meu site pessoal aqui](https://devfleo.github.io)
 
 </div>
-
-
 
 
 <div align=center>
@@ -62,7 +57,7 @@
 ### Technologies & Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,javascript,html,css,react,nodejs,git,sql" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,ruby,python,javascript,java,html,css,react,nodejs,git,sql" />
   </a>
 </p>
 
