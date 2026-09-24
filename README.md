@@ -37,7 +37,7 @@
 
 ## 🌐 Confira meu site:
 
-[👉 Acesse meu site pessoal aqui](https://devfleo.github.io)
+[Meu github.io aqui](https://devfleo.github.io)
 
 </div>
 
